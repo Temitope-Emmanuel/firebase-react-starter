@@ -257,3 +257,4 @@ and [contributors](https://github.com/kriasoft/react-firebase-starter/graphs/con
 [watchman]: https://github.com/facebook/watchman
 [postgres]: https://www.postgresql.org/
 [bc]: https://www.scootersoftware.com/
+"# firebase-react-starter" 
